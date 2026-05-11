@@ -35,6 +35,11 @@ main {
     left: 22px;
 }
 
+.social-media {
+    position: absolute;
+    right: 0;
+}
+
 .social-media img{
     display: block;
 
