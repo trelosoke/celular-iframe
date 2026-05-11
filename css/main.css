@@ -28,6 +28,8 @@ main {
 }
 
 #iscreen {
+    width: 264px;
+    height: 467px;
     position: absolute;
     top: 79.5px;
     left: 22px;
