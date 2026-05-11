@@ -55,3 +55,9 @@ main {
     border: solid 2px white;
     transform: scale(1.08);
 }
+
+.social-media a {
+    display: block;
+    width: fit-content;
+    border-radius: 50%;
+}
