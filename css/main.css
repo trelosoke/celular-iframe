@@ -21,8 +21,8 @@ main {
     left: 50%;
     transform: translate(-50%, -50%);
 
-    width: 311px;
-    height: 615px;
-    background: black url(../img/frame-iphone.png) center center no-repeat;
+    width: 308px;
+    height: 622px;
+    background: url(../img/frame-iphone.png) center center no-repeat;
     background-size: cover;
 }
