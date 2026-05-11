@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-size: 1.1em;
+}
+
+body, html {
+    width: 100%;
+    min-height: 100vh;
+}
+
+img {
+    display: block;
+    width: 100%;
+}
+
+a {
+    display: block;
+    padding: 20px;
+
+    color: white;
+    text-align: center;
+    text-decoration: none;
+
+    background-color: darkred;
+}
+
+a:hover {
+    background-color: rgb(181, 0, 0);
+    text-decoration: underline;
+}
+
+a:active {
+    color: rgb(177, 177, 177);
+    background-color: rgb(154, 0, 0);
+}
