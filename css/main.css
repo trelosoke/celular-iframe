@@ -46,4 +46,12 @@ main {
     margin: 10px;
     width: 80px;
     border-radius: 50%;
+
+    border: solid 2px transparent;
+    transition: border 0.09s ease-in-out, transform 0.09s ease-out;
+}
+
+.social-media img:hover {
+    border: solid 2px white;
+    transform: scale(1.08);
 }
