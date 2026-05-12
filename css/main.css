@@ -61,6 +61,10 @@ main {
     transform: scale(1.08);
 }
 
+.social-media img:active {
+    transform: scale(1);
+}
+
 .social-media a {
     display: block;
     width: fit-content;
