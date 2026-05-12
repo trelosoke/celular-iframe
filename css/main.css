@@ -10,6 +10,11 @@ body, html {
     min-height: 100vh;
 }
 
+body {
+    background: url(../img/fundo-madeira.jpg) center center no-repeat fixed;
+    background-size: cover;
+}
+
 main {
     height: 100vh;
     position: relative;
